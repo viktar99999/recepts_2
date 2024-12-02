@@ -16,6 +16,7 @@ sudo apt install python3.8
 sudo apt install python3.9
 sudo apt install python3.10
 sudo apt install python3.11
+sudo apt install python3.12
 Command for install pip:
 sudo apt install python3-pip
 Check version Python:
