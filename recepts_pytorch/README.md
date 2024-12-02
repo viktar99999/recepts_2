@@ -8,6 +8,7 @@ Programming environment - Python3.8.10.2.9
 Programming environment - Python3.9.5.2
 Programming environment - Python3.10.12
 Programming environment - Python3.11.0-rc1
+Programming environment - Python3.12.1
 Python dependencies from requirements.txt
 Install:
 Command for install Python:
