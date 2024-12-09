@@ -77,6 +77,7 @@ command python3.8
 command python3.9
 command python3.10
 command python3.11
+command python3.12
 import numpy
 import numpy as np
 import pandas
