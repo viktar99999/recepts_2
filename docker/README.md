@@ -3,6 +3,7 @@ In the neroset_model will be using dockerfile.
 Base:
 System - Ubuntu20.04.06lts
 System - Ubuntu22.04.05lts
+System - Ubuntu24.04.01lts
 Programming environment - Python3.8.10.2.9
 Programming environment - Python3.9.5.2
 Programming environment - Python3.10.12
